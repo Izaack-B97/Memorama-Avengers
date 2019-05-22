@@ -8,7 +8,7 @@ package juego;
 import java.applet.AudioClip;
 /**
  *
- * @author Isaac Bustamante
+ * @author Isaac Bustamante y Fernando Cora
  */
 public class inicio extends javax.swing.JFrame {
 
